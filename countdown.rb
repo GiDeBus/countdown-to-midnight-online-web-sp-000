@@ -3,6 +3,6 @@
 def countdown
 seconds = 10
   while seconds < 10
-  puts "#{seconds}!"
+  puts "#{number} SECOND(S)!"
   
 end
