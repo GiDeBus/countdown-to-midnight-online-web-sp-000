@@ -6,4 +6,5 @@ seconds = 10
     puts "#{number} SECOND(S)!"
   else
     "HAPPY NEW YEAR!"
+  end
 end
